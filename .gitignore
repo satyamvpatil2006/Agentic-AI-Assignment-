@@ -1,0 +1,15 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+chroma_db/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pptx
+slides.md
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
